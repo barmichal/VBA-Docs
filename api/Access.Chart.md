@@ -12,7 +12,7 @@ ms.date: 11/28/2018
 
 # Chart object (Access)
 
-A customizable visualization of data that can be included in a report.
+A customizable visualization of data that can be included in a report .
 
 ## Events
 
